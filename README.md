@@ -1,2 +1,7 @@
-# poem
-first repository of mine
+colors of rainbow
+
+red 
+green 
+yellow
+purple
+
